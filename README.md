@@ -1,5 +1,5 @@
 # function-trace-format
-A format print function trace tools which is base on C
+A format print function trace tool which is base on C
 
 ```bash
 /*
